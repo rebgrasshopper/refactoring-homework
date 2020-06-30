@@ -1,12 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
-
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
-
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+This is a homework project to refactor imprecise code. The goals are as follows:
 
 Using the Develop folder as a starting point:
 - Edit the HTML file to use semantic elements  
@@ -15,25 +9,8 @@ Using the Develop folder as a starting point:
 - Refactor the CSS file to be more concise
 - Edit the title element to something descriptive and concise.
 
-Here's a couple of links that should help you get started:
-
-https://www.w3schools.com/html/html5_semantic_elements.asp
-
-https://moz.com/learn/seo/alt-text
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
 ## Acceptance Criteria
 
-Homeworks will have an acceptance criteria in the format below. For this assignment, we'll give them to you in more human terms as well.
-
-```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -56,13 +33,17 @@ Homework submissions will be graded on:
 - If all functionality of the webpage is working as intended
 - If comments are found inside the HTML and CSS files
 
-## Review
+## Work Completed
 
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+The work I have completed is:
+- provided an appropirate title for the webpage
+- replaced appropriate div tags with more semantic tags such as section, article, header, footer, aside, nav, and figure
+- replaced footer header with a lower importance header
+- switched class "hero" image from a div background to an inline image for accessibility
+- provided alt tags for each image
+- double checked each image with a screen reader for flow and clarity
+- checked display on different devices using chrome developer tools
+- corrected non-working internal link on nav bar
+- added commenting to files to improve readability
+- collected repeated CSS text into single classes
+- matched organization of CSS file to that of HTML
