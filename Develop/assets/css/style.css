@@ -18,7 +18,7 @@ p {
 
 
 
-/*   HEADER   */
+/*   HEADER, NAV BAR, BANNER PHOTO   */
 
 header {
     padding: 20px;
@@ -58,12 +58,6 @@ a {
     text-decoration: none;
 }
 
-
-
-
-
-/*   FIGURE - MAIN IMAGE   */
-
 .hero img {
     width: 100%;
     margin-bottom: 25px;
@@ -73,7 +67,7 @@ a {
 
 
 
-/*   SECTION - SERVICES PROVIDED   */
+/*   SECTION - SERVICES OFFERED   */
 
 .content {
     width: 75%;
@@ -131,7 +125,7 @@ a {
 
 
 
-/*   ASIDE - BENEFITS   */
+/*   ASIDE - BENEFITS OF SERVICES   */
 
 .benefits {
     margin-right: 20px;
