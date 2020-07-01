@@ -22,7 +22,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
 
 Homework submissions will be graded on:
 - If semantic HTML elements are used
@@ -33,7 +32,7 @@ Homework submissions will be graded on:
 - If all functionality of the webpage is working as intended
 - If comments are found inside the HTML and CSS files
 
-## Work Completed
+## Acceptance Criteria
 
 The work I have completed is:
 - provided an appropirate title for the webpage
