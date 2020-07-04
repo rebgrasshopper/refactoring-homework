@@ -5,10 +5,10 @@ https://rebgrasshopper.github.io/refactoring-homework/
 
 ## Table Of Contents ##
 
-- [Section 1: Introduction] (#introduction)
-- [Section 2: Our Services] (#our-services)
-- [Section 3: The Benefits] (#the-benefits)
-- [Section 4: License] (#license)
+- [Section 1: Introduction](#introduction)
+- [Section 2: Our Services](#our-services)
+- [Section 3: The Benefits](#the-benefits)
+- [Section 4: License](#license)
 
 ## Introduction
 
