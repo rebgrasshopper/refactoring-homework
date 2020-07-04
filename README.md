@@ -1,16 +1,16 @@
-# Horiseon Social Solutions Services
+# Horiseon Social Solutions Services #
 
-We offer help for navigating the world of digital marketing.
+### We offer help for navigating the world of digital marketing. ###
 https://rebgrasshopper.github.io/refactoring-homework/
 
 ## Table Of Contents ##
 
-- [Section 1: Introduction] (#user-content-introduction)
-- [Section 2: Our Services] (#user-content-our-services)
-- [Section 3: The Benefits] (#user-content-the-benefits)
-- [Section 4: License] (#user-content-license)
+- [Section 1: Introduction] (#introduction)
+- [Section 2: Our Services] (#our-services)
+- [Section 3: The Benefits] (#the-benefits)
+- [Section 4: License] (#license)
 
-## Introduction ##
+## Introduction
 
 Horiseon is a experienced guide in managing your business' online precense. It can be daunting and confusing to attempt to navigate the web while also juggling all the other demands of a business, but we have tried and true techniques to steer your business through murky waters.
 
