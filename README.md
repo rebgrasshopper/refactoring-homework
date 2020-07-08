@@ -1,36 +1,36 @@
 # Horiseon Social Solutions Services #
 
-### We offer help for navigating the world of digital marketing. ###
+### Practice assignment for refactoring code. ###
 https://rebgrasshopper.github.io/refactoring-homework/
 
 ## Table Of Contents ##
 
 - [Section 1: Introduction](#introduction)
 - [Section 2: Updates](#updates)
-- [Section 3: Our Services](#our-services)
-- [Section 4: The Benefits](#the-benefits)
+- [Section 3: Usage](#usage)
 - [Section 5: License](#license)
 
 ## Introduction
 
-Horiseon is a experienced guide in managing your business' online precense. It can be daunting and confusing to attempt to navigate the web while also juggling all the other demands of a business, but we have tried and true techniques to steer your business through murky waters.
+Horiseon is set up as a company that would offer services to business looking to navigate the online world. Their HTML and CSS was, however, somewhat unclear, overly wordy, and did not support accessibility.
 
 ## Updates ##
 
-Recent updates to our homepage should leave the source code much cleaner and more concise, and accessibililty improvements have been a huge push for us. We have updated our html to rely heavily on semantic tags, and introduced alt text for each image, to better accomodate users with screen-reading software.
+To clean up the code I did the following:
+- implemented semantic HTML tags
+- deleted unnecessary end tag
+- condensed CSS attributes for objects with identical styling
+- organized CSS to match flow of HTML
+- input comments to make navigation files easier
 
-## Our Services ##
+To improve accessibility I did the following:
+- pulled CSS background image into a sourced HTML img
+- added descriptive alt tags to every image
+- checked with screen reading software to ensure that alt text flowed reasonably well and described the images accurately
 
-- Search Engine Optimation: SEO is the cornerstone of digital success
-- Online Reputation Management: you can't control reviews, but you can influence presentation
-- Social Media Marketing: Social media is increasingly the base of user online experience
+## Usage ##
 
-## The Benefits ##
-
-- Lead Generation: bring customers to you through your website
-- Brand Awareness: increase visibility through search rankings
-- Cost Management: with better rankings, need for advertising diminishes
-
+This website is a simple, one-page description of Horiseon's services and suggested benefits of those services. There are internal links in a top nav bar that will take you to each section of services.
 
 ## License ##
 
